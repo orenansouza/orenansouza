@@ -10,4 +10,4 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orenansouza)](https://www.linkedin.com/in/orenansouza)
 
-![](https://komarev.com/ghpvc/?username=nulldreams)
+![](https://komarev.com/ghpvc/?username=orenansouza)
