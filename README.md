@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Renan Souza from Brazil (🇧🇷). 
-I've been working as a full stack since 2019.
+I've been working as a full stack since 2018.
 Information security enthusiast and student.
 
 In my free time i like football, games in particular cs:go, series, movies and the famous barbecue.
