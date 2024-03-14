@@ -49,6 +49,7 @@
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.ENV](https://img.shields.io/badge/dotenv-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 ## ⚡ GitHub Stats
  <div>
