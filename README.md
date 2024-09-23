@@ -53,8 +53,8 @@
 
 ## ⚡ GitHub Stats
  <div>
-    <a href="https://github.com/gabrielAlonsocabral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielAlonsoCabral&hide=TeX&layout=compact&theme=dracula"/>
+    <a href="https://github.com/orenansouza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orenansouza&hide=TeX&layout=compact&theme=dracula"/>
 </div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=orenansouza" alt="orenansouza" /></p>
