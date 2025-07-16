@@ -51,10 +51,6 @@
 ![.ENV](https://img.shields.io/badge/dotenv-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-## ⚡ GitHub Stats
- <div>
-    <a href="https://github.com/orenansouza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orenansouza&hide=TeX&layout=compact&theme=dracula"/>
-</div>
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=orenansouza" alt="orenansouza" /></p>
